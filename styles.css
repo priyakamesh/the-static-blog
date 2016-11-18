@@ -29,6 +29,8 @@ h1,h3 {
 	color: blue;
 	padding: 2em 1em;
 	margin-left: 2em;
+	margin-bottom :2em;
+	border-radius: 10px;
 	
 
 }
@@ -39,6 +41,10 @@ h1,h3 {
 	line-height: 2em;
 	font-family: 'Covered By Your Grace', cursive;
 	color: red;
+	padding: 1em 1.5em 2em 2em;
+	border-radius: 20px;
+	margin-left: 2em;
+	margin-bottom :2em;
 
 }
 
@@ -48,6 +54,10 @@ h1,h3 {
 	font-size: 20px;
 	color: pink;
 	line-height: 1.75em;
+	padding: 1.5em 1.75em;
+	border-radius: 30px;
+	margin-left: 2em;
+	margin-bottom :2em;
 }
 
 #article-4 {
@@ -56,15 +66,13 @@ h1,h3 {
 	font-size: 15px;
 	color: #efefef;
 	line-height: 1.5em;
+	padding: 2em 1em 1.5em 1.25em;
+	border-radius: 50px;
+	margin-left: 2em;
+	margin-bottom :2em;
 }
 
-#article-5 {
- font-family: 'Shadows Into Light', cursive;
- background-color: pink;
- font-size: 13px;
- color: lightblue;
- line-height: 1.25em;
-}
+
 
 #article-5 {
 	font-family: 'Dancing Script', cursive;
@@ -72,6 +80,10 @@ h1,h3 {
 	font-size: 10px;
 	color: #000;
 	line-height: 1em;
+	padding: 2em 1.25em 1.75em 2em;
+	border-radius: 60%;
+	margin-left: 2em;
+	margin-bottom :2em;
 }
 #article-6 {
  font-size: 10px;
