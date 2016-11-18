@@ -1,0 +1,78 @@
+body {
+	width: 70%;
+	margin: 0;
+
+}
+h1,h3 {
+	text-align: center;
+	font-size: 30px;
+}
+
+#heading {
+	margin-left: 2em;
+}
+
+.art-1 {
+	font-family: 'Gentium Basic', serif;
+	
+	margin-left: auto;
+	
+	
+	text-align: left;
+
+}
+#article-1 {
+	
+	background-color: #ff3535;
+	font-family: 'Satisfy', cursive;
+	font-size: 30px;
+	color: blue;
+	padding: 2em 1em;
+	margin-left: 2em;
+	
+
+}
+#article-2 {
+	
+	background-color: lightblue;
+	font-size: 25px;
+	line-height: 2em;
+	font-family: 'Covered By Your Grace', cursive;
+	color: red;
+
+}
+
+#article-3 {
+	font-family: 'Josefin Slab', serif;
+	background-color: grey;
+	font-size: 20px;
+	color: pink;
+	line-height: 1.75em;
+}
+
+#article-4 {
+	font-family: 'Dancing Script', cursive;
+	background-color: #e343e2;
+	font-size: 15px;
+	color: #efefef;
+	line-height: 1.5em;
+}
+
+#article-5 {
+ font-family: 'Shadows Into Light', cursive;
+ background-color: pink;
+ font-size: 13px;
+ color: lightblue;
+ line-height: 1.25em;
+}
+
+#article-5 {
+	font-family: 'Dancing Script', cursive;
+	background-color: purple;
+	font-size: 10px;
+	color: #000;
+	line-height: 1em;
+}
+#article-6 {
+ font-size: 10px;
+}
